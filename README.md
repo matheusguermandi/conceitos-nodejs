@@ -1,10 +1,10 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  👨🏻‍🚀 Desafio: Conceitos Node.js ✔️ BOOTCAMP GOSTACK 11.0 🚀
+  👨🏻‍🚀 Desafio: Conceitos Node.js - BOOTCAMP GOSTACK 11.0 🚀
 </h3>
 
-### Específicação dos testes
+### ✔️ Específicação dos testes 
 
 Para esse desafio temos os seguintes testes:
 
@@ -27,7 +27,7 @@ Para esse desafio temos os seguintes testes:
 - **`should not be able to like a repository that does not exist`**: Para que esse teste passe, você deve validar na sua rota de like se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status `400`.
 
 
-## Instalação e execução
+## 🚀 Instalação e execução 
 
 1. Faça um clone desse repositório;</br>
    git clone https://github.com/matheusguermandi/gostack-desafio02.git
