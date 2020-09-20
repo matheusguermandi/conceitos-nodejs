@@ -1,7 +1,5 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
-
 <h3 align="center">
-  👨🏻‍🚀 Desafio: Conceitos Node.js - BOOTCAMP GOSTACK 11.0 🚀
+  👨🏻‍🚀 Conceitos Node.js
 </h3>
 
 ### ✔️ Específicação dos testes 
